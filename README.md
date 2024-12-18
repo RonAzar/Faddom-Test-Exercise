@@ -18,7 +18,7 @@ AWS_SECRET_ACCESS_KEY=your-secret-access-key`
 4. Run the server:
    `npm start`
 
-5. Go to the client folder and open index.html in your browser to start the client.
+5. Go to the client folder and open client_side.html in your browser to start the client.
 
 \*HLD Documentation
 You can find the detailed High-Level Design (HLD) document in the file: 'HLD- AWS Instance CPU usage.pdf'
